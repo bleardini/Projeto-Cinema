@@ -1,0 +1,15 @@
+#FFBF00  cor de dentro
+
+ font-family: arial, helvetica, sans-serif;
+    font-size: 12px;
+    background-image: url(imgcinema/imagemteste.png);
+    background-size: 100%;
+    background-repeat: repeat-y;
+
+    <main></main>
+  <header></header>
+  <nav></nav>
+  <section> </section>
+  (dentro da section fazer article)
+  Footer
+  <aside> </aside>
